@@ -1,0 +1,4 @@
+yarn add react-native-confirmation-code-field
+yarn add @react-navigation/material-top-tabs react-native-tab-view@^2.16.0
+yarn add @react-navigation/native
+yarn add react-native-elements
